@@ -1,4 +1,3 @@
-def sum(a,b):
-    print(f'the sum of {a} and {b} is {a+b}')
+from Calculator import sum
 
-
+sum(2,5)

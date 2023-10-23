@@ -12,3 +12,6 @@ def div(a,b):
         print(f'the division of {a} and {b} is {a/b}')
     else:
         print('Denomerator is 0 here')
+    
+def rem(a,b):
+        print(f'the remainder of {a} and {b} is {a/b}')
